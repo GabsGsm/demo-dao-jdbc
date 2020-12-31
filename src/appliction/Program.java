@@ -1,11 +1,10 @@
 package appliction;
 
-import java.util.Date;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 
-import entities.Department;
-import entities.Seller;
+import model.entities.Department;
+import model.entities.Seller;
 
 public class Program {
 
